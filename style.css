@@ -1,0 +1,189 @@
+
+
+#viloes {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    font-family:fantasy;
+}
+#viloes :hover img{
+    border:dotted;
+
+}
+.coringa {
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.coringa a:link{
+    color:red;
+}
+.coringa a:visited{
+    color:purple;
+}
+.thanos {
+    background-color: darkviolet;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.thanos a:link{
+    color:orange;
+}
+.thanos a:visited{
+    color:purple;
+}
+.venom {
+    background-color: indianred;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.venom a:link{
+    color:red;
+}
+.venom a:visited{
+    color:black;
+}
+.batmanqueri {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.batmanqueri a:link{
+    color:red;
+}
+.batmanqueri a:visited{
+    color:black;
+}
+.darthvader {
+    background-color: maroon;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.darthvader a:link{
+    color:red;
+}
+.darthvader a:visited{
+    color:black;
+}
+.it {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.it a:link{
+    color:black;
+}
+.it a:visited{
+    color:white;
+}
+.ultron{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.ultron a:link{
+    color:red;
+}
+.ultron a:visited{
+    color:silver;
+}
+.loki{
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.loki a:link{
+    color:darkslategray;
+}
+.loki a:visited{
+    color:yellow;
+}
+.herobrine{
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.herobrine a:link{
+    color:white;
+}
+.herobrine a:visited{
+    color:blue;
+}
+.vector{
+    background-color: tomato;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    border:solid;
+    margin-top: 50px;
+}
+.vector a:link{
+    color:red;
+}
+.vector a:visited{
+    color:white;
+}
